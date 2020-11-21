@@ -9,4 +9,5 @@ This is a project about using pyspark-based model to predict the injury in the t
 6. the Road Type
 7. the Weather
 8. the Road Surface Conditions
+
 the model will detect the probability of a traffic accident.
